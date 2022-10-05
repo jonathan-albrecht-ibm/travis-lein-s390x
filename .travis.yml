@@ -1,5 +1,5 @@
 language: clojure
-#lein: lein
+lein: lein2
 dist: bionic
 arch:
   - amd64
