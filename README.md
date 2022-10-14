@@ -59,3 +59,22 @@ Cheers,
 Your Friends @Travis-CI
 This email is a service from Travis CI. Delivered by Zendesk 
 ```
+
+```
+Qasim (Travis CI) 
+Oct 7, 2022, 12:47 GMT-3 
+Hey Jonathan,
+ 
+Thanks for the update. We are happy to hear that you were able to resolve the issue.
+ 
+Let us know if we can be of further assistance in the future.
+ 
+Best,
+```
+
+```
+Jonathan Albrecht 
+Oct 7, 2022, 12:03 GMT-3 
+Hi Qasim, I can confirm this issue is fixed now. I am no longer blocked. Thanks for the fix!
+Jon
+```
