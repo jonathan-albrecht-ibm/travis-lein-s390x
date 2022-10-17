@@ -5,3 +5,13 @@ arch:
   - amd64
   - s390x
 os: linux
+env:
+  global:
+    - MYGLOBALENV=does_nothing
+  jobs:
+    - MYTESTENV=does_nothing
+
+jobs:
+  allow_failures:
+    arch:
+      - s390x
